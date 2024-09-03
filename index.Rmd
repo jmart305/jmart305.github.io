@@ -1,0 +1,43 @@
+---
+title: "Julia Martin"
+image: "JuliaMartin_Headshot.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/julia--martin/"
+  - label: GitHub
+    url: "https://github.com/jmart305"
+  - label: Email
+    url: "mailto:jmart305@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Julia Martin is a first year Biostatistics Masters student at the Johns Hopkins University Bloomberg School of Public Health. She graduated from UCLA in June 2024 with a Bachelor of Science in Statistics and Data Science and  a Minor in Public Health. While studying at UCLA, she was a student researcher at the UCLA Department of Medicine Statistics Core, in which she assisted a senior statistician in data analysis on patterns in childhood trauma using R. Her research interests include clinical trials and causal inference. In this course, she is curious to learn how to use Git to manage coding and data files.
+
+## Education
+
+**Johns Hopkins University Bloomberg School of Public Health** | Baltimore, MD
+
+ScM in Biostatistics | August 2024 - Present
+
+**The University of California, Los Angeles** | Los Angeles, CA
+
+B.S. in Statistics and Data Science; Minor in Public Health | September 2020 - June 2024
+
+## Experience
+
+**UCLA Department of Medicine Statistics Core** | Student Researcher | July 2022 - January 2024
+
+## Fun Facts
+
+1. She was the first baby born in her town the year she was born (1/2/2002).
+2. She really likes to cook and bake and bakes her own bread at home!
+3. Her favorite movie is the Parent Trap.
+4. Her favorite season is Summer.
+5. In college she started training for triathlons!
+
+## Inspirational Website
+[Kristen Faulkner](https://www.kristenfaulkner.com/life-story)  
+Kristen Faulkner, a Team USA cyclist and Olympic Gold Medalist, inspires me because she turned her hobby of cycling to a profession. What started as morning bike rides before work led to her excelling in the sport and eventually competing at some of the highest stages in cycling.
